@@ -1,14 +1,3 @@
-# e-money-kelompok-7
-Dokumentasi API E-Money Payfresh dan E-Commerce Fresh Box oleh kelompok 7
-
-# Anggota
-
-| Nama                           | NRP          | 
-| -------------------------------| -------------| 
-| Muhammad Naufal Pasya                 | `5027201045` | 
-| Mutiara Nuraisyah Dinda R           | `5027201054` | 
-| Anak Agung Bintang Krisnadewi     | `5027201060` |
-
 ## PAYFRESH
 
 ### 1. Create User (Register)
